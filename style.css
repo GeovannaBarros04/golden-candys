@@ -156,3 +156,22 @@ body{
     }
 
 }
+#premio{
+
+margin-top:25px;
+
+padding:18px;
+
+border-radius:20px;
+
+background:#fff8dc;
+
+color:#8B1538;
+
+font-weight:bold;
+
+display:none;
+
+border:2px solid #D4AF37;
+
+}
