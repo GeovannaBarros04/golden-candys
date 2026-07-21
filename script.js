@@ -509,7 +509,7 @@ const frases = [
 {numero:497,texto:"Que Deus realize os desejos do seu coração. 🙏"},
 {numero:498,texto:"Você acaba de completar uma experiência Golden Candys. ✨"},
 {numero:499,texto:"Esperamos que este não seja o último brigadeiro. 🍫😉"},
-{numero:500,texto:"🎉 PARABÉNS! Você encontrou a mensagem número 500. Obrigado por fazer parte da história da Golden Candys! 🍫❤️"}.
+{numero:500,texto:"🎉 PARABÉNS! Você encontrou a mensagem número 500. Obrigado por fazer parte da história da Golden Candys! 🍫❤️"}
 ];
 
 // ==========================
