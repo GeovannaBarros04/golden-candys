@@ -175,3 +175,131 @@ display:none;
 border:2px solid #D4AF37;
 
 }
+.continue-rolando {
+    margin-top: 35px;
+    padding: 22px 15px;
+    text-align: center;
+}
+
+.continue-rolando h3 {
+    margin: 8px 0;
+    color: #8B1538;
+    font-size: 22px;
+}
+
+.continue-rolando p {
+    margin: 10px 0;
+    color: #5f4545;
+    line-height: 1.6;
+}
+
+.seta {
+    display: block;
+    color: #D4AF37;
+    font-size: 35px;
+    font-weight: bold;
+    animation: setaDescendo 1.3s infinite;
+}
+
+@keyframes setaDescendo {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(8px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.presente {
+    margin-top: 25px;
+    padding: 28px 20px;
+    border: 2px solid #D4AF37;
+    border-radius: 22px;
+    background: linear-gradient(145deg, #fffdf6, #fff6d8);
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(139, 21, 56, 0.12);
+}
+
+.presente-superior {
+    margin-bottom: 10px;
+    color: #8B1538;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.presente h2 {
+    margin: 10px 0;
+    color: #8B1538;
+    font-size: 28px;
+}
+
+.presente p {
+    color: #5f4545;
+    line-height: 1.5;
+}
+
+.cupom {
+    margin: 22px auto 12px;
+    padding: 16px;
+    max-width: 280px;
+    border: 2px dashed #D4AF37;
+    border-radius: 15px;
+    background: #ffffff;
+}
+
+.cupom span {
+    display: block;
+    margin-bottom: 6px;
+    color: #6b5555;
+    font-size: 14px;
+}
+
+.cupom strong {
+    display: block;
+    color: #8B1538;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+.aviso-cupom {
+    margin: 12px 0 20px;
+    font-size: 14px;
+}
+
+.botao-desconto {
+    display: inline-block;
+    padding: 15px 22px;
+    border-radius: 30px;
+    background: #8B1538;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.botao-desconto:hover {
+    transform: translateY(-2px);
+    background: #6f102d;
+}
+
+.instagram {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(212, 175, 55, 0.45);
+    text-align: center;
+}
+
+.instagram p {
+    margin-bottom: 12px;
+}
+
+.instagram a {
+    color: #8B1538;
+    font-weight: bold;
+    text-decoration: none;
+}
