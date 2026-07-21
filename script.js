@@ -4,8 +4,8 @@
 
 // Chance da Mensagem Dourada.
 // Quanto maior o número, mais rara ela será.
-// 250 = aproximadamente 1 chance em 250.
-const CHANCE_MENSAGEM_DOURADA = 250;
+// 50 = aproximadamente 1 chance em 50.
+const CHANCE_MENSAGEM_DOURADA = 50;
 
 // Frases (PARTE 1 - 100)
 const frases = [
